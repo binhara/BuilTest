@@ -12,7 +12,7 @@ namespace ClassLib
 
         public int Soma()
         {
-            return X + Y;
+            return X - Y;
         }
 
         public int Multiplica()

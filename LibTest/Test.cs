@@ -17,7 +17,7 @@ namespace LibTest
     {
         Calculadora c = new Calculadora();
         c.X = 2;
-        c.Y = 4;  
+        c.Y = 6;  
         	  
       Assert.AreEqual(6, c.Soma());
 
